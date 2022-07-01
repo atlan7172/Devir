@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/devir/static/css/main.bbf19ccc.css",
+    "main.js": "/devir/static/js/main.877a3505.js",
+    "index.html": "/devir/index.html",
+    "main.bbf19ccc.css.map": "/devir/static/css/main.bbf19ccc.css.map",
+    "main.877a3505.js.map": "/devir/static/js/main.877a3505.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bbf19ccc.css",
+    "static/js/main.877a3505.js"
+  ]
+}
